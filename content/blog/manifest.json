@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "slug": "perfect-engagement-ring",
+      "title": "How to Choose the Perfect Engagement Ring",
+      "category": "Style Guide",
+      "date": "June 8, 2026",
+      "readTime": "6 min read",
+      "emoji": "💍",
+      "summary": "From the 4 Cs of diamonds to setting styles and metal choices.",
+      "contentUrl": "content/blog/perfect-engagement-ring/content.html"
+    },
+    {
+      "slug": "art-of-handcrafted-jewelry",
+      "title": "The Art of Handcrafted Jewelry: From Sketch to Masterpiece",
+      "category": "Craftsmanship",
+      "date": "June 3, 2026",
+      "readTime": "7 min read",
+      "emoji": "✋",
+      "summary": "Follow the journey from a single line on paper to a finished piece of jewelry.",
+      "contentUrl": "content/blog/art-of-handcrafted-jewelry/content.html"
+    },
+    {
+      "slug": "caring-for-sterling-silver",
+      "title": "Caring for Your Sterling Silver Jewelry",
+      "category": "Care Tips",
+      "date": "May 25, 2026",
+      "readTime": "5 min read",
+      "emoji": "✨",
+      "summary": "Keep your favorite silver pieces shining for years with these simple care techniques.",
+      "contentUrl": "content/blog/caring-for-sterling-silver/content.html"
+    },
+    {
+      "slug": "understanding-gemstones",
+      "title": "Understanding Gemstones: Moonstone, Pearl & Beyond",
+      "category": "Education",
+      "date": "May 18, 2026",
+      "readTime": "6 min read",
+      "emoji": "💎",
+      "summary": "A beginner's guide to gemstones in the YUAN YI collections.",
+      "contentUrl": "content/blog/understanding-gemstones/content.html"
+    },
+    {
+      "slug": "everyday-elegance-jewelry-styling",
+      "title": "Everyday Elegance: Styling Jewelry for Work and Play",
+      "category": "Style Guide",
+      "date": "May 10, 2026",
+      "readTime": "5 min read",
+      "emoji": "👗",
+      "summary": "Master the art of everyday jewelry styling. Build your personal signature look.",
+      "contentUrl": "content/blog/everyday-elegance-jewelry-styling/content.html"
+    }
+  ]
+}
